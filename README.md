@@ -9,11 +9,13 @@
 실행 소스코드: decompress.c, compress.c
 
 사용 알고리즘 : 허프만 코딩
+
 ![image](https://user-images.githubusercontent.com/38209962/100064516-f7e58e80-2e75-11eb-94c9-dd985965434b.png)
 
 <h2>실행 방법</h2> 
 
 c파일을 컴파일 후 사용한다.
+
 ![image](https://user-images.githubusercontent.com/38209962/100065004-97a31c80-2e76-11eb-9843-2b25aa05b50f.png)
 
 compress를 실행하면 확장자 .cpd인 파일이 생성된다.
